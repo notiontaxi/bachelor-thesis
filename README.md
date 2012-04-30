@@ -1,33 +1,33 @@
-![](./Bachelor-Thesis/raw/master/cover.jpg)  
 ### Interaktion mit Videoinhalten im dreidimensionalen Raum
 Entwurf einer Bibliothek für interaktive Videos unter Verwendung von HTML5 und WebGL
   
+![](./Bachelor-Thesis/raw/master/cover.jpg)  
   
-##Informationen zu dieser Arbeit
+###Informationen zu dieser Arbeit
 Bachelorarbeit
-Autor:	Florian Robert Wokurka
-Abgabe:	Februar 2012
-Umfang:	91 Seiten
-Note:	1,15
-Hochschule: Fachhochschule Düsseldorf
-Sprache:	Deutsch
+Autor:	Florian Robert Wokurka  
+Abgabe:	Februar 2012  
+Umfang:	91 Seiten  
+Note:	1,15  
+Hochschule: Fachhochschule Düsseldorf  
+Sprache:	Deutsch  
   
-Arbeit zitieren: 
+Arbeit zitieren:  
 Wokurka, Florian Robert (2012): Interaktion mit Videoinhalten im dreidimensionalen Raum - Entwurf einer Bibliothek für interaktive Videos unter Verwendung von HTML5 und WebGL.
   
   
-##Tags
+###Tags
 * interactive storytelling
 * storytelling
 * Video + Interaktion
 * HTML5 / canvas / three.js
   
   
-##Abtract
+###Abtract
 Der Inhalt dieser Arbeit lässt sich in drei Hauptteile untergliedern. Den Anfang bildet die Heranführung und Zusammenfassung des Themas ‚interactive storytelling’, gefolgt von der Übertragung dort gewonnener Erkenntnisse auf das Bewegtbild mit anschließender Planung von Funktionalitäten für eine Bibliothek zur Interaktion mit Videos sowie die Veranschaulichung einiger Funktionen durch eine konkrete Umsetzung mit HTML5 und WebGL.
   
   
-##Inhalt und Ziel der Arbeit
+###Inhalt und Ziel der Arbeit
 Von der mündlichen Überlieferung legendenhaft eingehüllter, existenziell wichtiger Informationen zu Zeiten, in denen Lesen und Schreiben seltene Talente waren, über bardische Erzählungen bis hin zur Wiedergabe narrativer Inhalte mittels ausgeklügelter Technologien in unserer heutigen Zeit: Ersinnung und Darbietung von Geschichten sind Künste, welche einen festen Bestandteil jeder Kultur darstellen.
   
 Verdrängen neue Darbietungsweisen alte Künste oder nehmen sie gar negativen Einfluss auf die Gesellschaft? Woran denkt man, wenn man das Wort ‚Geschichte’ ließt? An ein Märchenbuch, die angenehme Erzählerstimme eines Hörbuches oder an ein Stilmittel? Welche Erwartungen bestehen bezüglich Aufbau und Struktur, wenn von einer ‚guten’ Geschichte gesprochen wird und woher kommt dieses Verlangen nach Struktur? Welche Bedeutung hat die Art der Darstellung von Informationen – sei es in der Werbung, einem Brief oder dem Resümee des Tages am Abendtisch – bezüglich ihrer Persistenz in unseren Köpfen? 
@@ -39,6 +39,6 @@ Abschließend werden Ideen sowie konkrete Funktionalitäten für eine Bibliothek er
 Die behandelten Themen werden aufgrund ihrer Weitläufigkeit nicht vollständig, sicherlich aber dem Maß einer Bachelorarbeit entsprechend, behandelt. Ebenso beinhaltet die Planung der Bibliothek hauptsächlich den Entwurf und das Zusammenfassen von Ideen, Funktionalitäten und Einsatzszenarien. Eine tiefer gehende Planung bis hin zu einzelnen Klassen findet lediglich bei dem Teil statt, welcher auch prototypisch implementiert wird. 
   
   
-##Primäre Literatur
+###Primäre Literatur
 * CRAWFORD, Chris (2005): Chris Crawford on Interactive Storytelling. Berkley: New Riders.
 * MURRAY, Janet Horowitz (1997): Hamlet on the Holodeck: Future of Narrative in Cyberspace. New York: Free Press.
