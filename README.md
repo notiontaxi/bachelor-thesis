@@ -3,8 +3,9 @@
 Entwurf einer Bibliothek für interaktive Videos unter Verwendung von HTML5 und WebGL
   
 ###Abtract
-p<>Der Inhalt dieser Arbeit lässt sich in drei Hauptteile untergliedern. Den Anfang bildet die Heranführung und Zusammenfassung des Themas ‚interactive storytelling’, gefolgt von der Übertragung dort gewonnener Erkenntnisse auf das Bewegtbild mit anschließender Planung von Funktionalitäten für eine Bibliothek zur Interaktion mit Videos sowie die Veranschaulichung einiger Funktionen durch eine konkrete Umsetzung mit HTML5 und WebGL.
-  
+<p style="text-align:justify;">
+Der Inhalt dieser Arbeit lässt sich in drei Hauptteile untergliedern. Den Anfang bildet die Heranführung und Zusammenfassung des Themas ‚interactive storytelling’, gefolgt von der Übertragung dort gewonnener Erkenntnisse auf das Bewegtbild mit anschließender Planung von Funktionalitäten für eine Bibliothek zur Interaktion mit Videos sowie die Veranschaulichung einiger Funktionen durch eine konkrete Umsetzung mit HTML5 und WebGL.
+</p>  
   
 ###Tags
 * interactive storytelling
