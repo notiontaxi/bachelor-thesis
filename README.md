@@ -8,7 +8,7 @@ Autor:	Florian Robert Wokurka
 Abgabe:	Februar 2012  
 Umfang:	91 Seiten  
 Note:	1,15  
-Hochschule: Fachhochschule Düsseldorf University of Applied Sciences
+Hochschule: FH Düsseldorf University of Applied Sciences  
 Sprache:	Deutsch  
   
 Arbeit zitieren:  
