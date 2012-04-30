@@ -4,12 +4,11 @@ Entwurf einer Bibliothek für interaktive Videos unter Verwendung von HTML5 und W
 ![](./Bachelor-Thesis/raw/master/cover.jpg)  
   
 ###Informationen zu dieser Arbeit
-Bachelorarbeit
 Autor:	Florian Robert Wokurka  
 Abgabe:	Februar 2012  
 Umfang:	91 Seiten  
 Note:	1,15  
-Hochschule: Fachhochschule Düsseldorf  
+Hochschule: Fachhochschule Düsseldorf University of Applied Sciences
 Sprache:	Deutsch  
   
 Arbeit zitieren:  
