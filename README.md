@@ -24,7 +24,7 @@ Wokurka, Florian Robert (2012): Interaktion mit Videoinhalten im dreidimensional
 * HTML5 / canvas / three.js
   
   
-###Abtract
+###Abstract
 Der Inhalt dieser Arbeit lässt sich in drei Hauptteile untergliedern. Den Anfang bildet die Heranführung und Zusammenfassung des Themas ‚interactive storytelling’, gefolgt von der Übertragung dort gewonnener Erkenntnisse auf das Bewegtbild mit anschließender Planung von Funktionalitäten für eine Bibliothek zur Interaktion mit Videos sowie die Veranschaulichung einiger Funktionen durch eine konkrete Umsetzung mit HTML5 und WebGL.
   
   
