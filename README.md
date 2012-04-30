@@ -1,5 +1,5 @@
 `[Bachelorarbeit]`
-![](./Bachelor-Thesis/cover.jpg)  
+![](./Bachelor-Thesis/blob/master/cover.jpg)  
 ## Interaktion mit Videoinhalten im dreidimensionalen Raum
 Entwurf einer Bibliothek für interaktive Videos unter Verwendung von HTML5 und WebGL
   
