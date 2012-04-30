@@ -11,7 +11,7 @@ Note:	1,15
 Hochschule: FH Düsseldorf University of Applied Sciences  
 Sprache:	Deutsch  
    
-[Link zum PDF](bitly.com/BA_storytelling) (bitly.com/BA_storytelling)
+[Link zum PDF](http://bitly.com/BA_storytelling) (bitly.com/BA_storytelling)
    
 Arbeit zitieren:  
 Wokurka, Florian Robert (2012): Interaktion mit Videoinhalten im dreidimensionalen Raum - Entwurf einer Bibliothek für interaktive Videos unter Verwendung von HTML5 und WebGL.
