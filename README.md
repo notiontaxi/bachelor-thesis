@@ -1,20 +1,20 @@
 ### Interaktion mit Videoinhalten im dreidimensionalen Raum
-Entwurf einer Bibliothek für interaktive Videos unter Verwendung von HTML5 und WebGL
+Entwurf einer Bibliothek fÃ¼r interaktive Videos unter Verwendung von HTML5 und WebGL
   
-![](./Bachelor-Thesis/raw/master/cover.jpg)  
+![](https://raw.github.com/notiontaxi/Bachelor-Thesis/master/cover.jpg)  
   
 ###Informationen zu dieser Arbeit
 Autor:	Florian Robert Wokurka  
 Abgabe:	Februar 2012  
 Umfang:	91 Seiten  
 Note:	1,15  
-Hochschule: FH Düsseldorf University of Applied Sciences  
+Hochschule: FH DÃ¼sseldorf University of Applied Sciences  
 Sprache:	Deutsch  
    
 [Link zum PDF](http://bitly.com/BA_storytelling) (bitly.com/BA_storytelling)
    
 Arbeit zitieren:  
-Wokurka, Florian Robert (2012): Interaktion mit Videoinhalten im dreidimensionalen Raum - Entwurf einer Bibliothek für interaktive Videos unter Verwendung von HTML5 und WebGL.
+Wokurka, Florian Robert (2012): Interaktion mit Videoinhalten im dreidimensionalen Raum - Entwurf einer Bibliothek fÃ¼r interaktive Videos unter Verwendung von HTML5 und WebGL.
   
   
 ###Tags
@@ -25,21 +25,21 @@ Wokurka, Florian Robert (2012): Interaktion mit Videoinhalten im dreidimensional
   
   
 ###Abstract
-Der Inhalt dieser Arbeit lässt sich in drei Hauptteile untergliedern. Den Anfang bildet die Heranführung und Zusammenfassung des Themas ‚interactive storytelling’, gefolgt von der Übertragung dort gewonnener Erkenntnisse auf das Bewegtbild mit anschließender Planung von Funktionalitäten für eine Bibliothek zur Interaktion mit Videos sowie die Veranschaulichung einiger Funktionen durch eine konkrete Umsetzung mit HTML5 und WebGL.
+Der Inhalt dieser Arbeit lÃ¤sst sich in drei Hauptteile untergliedern. Den Anfang bildet die HeranfÃ¼hrung und Zusammenfassung des Themas "interactive storytelling", gefolgt von der Ãœbertragung dort gewonnener Erkenntnisse auf das Bewegtbild mit anschlieÃŸender Planung von FunktionalitÃ¤ten fÃ¼r eine Bibliothek zur Interaktion mit Videos sowie die Veranschaulichung einiger Funktionen durch eine konkrete Umsetzung mit HTML5 und WebGL.
   
   
 ###Inhalt und Ziel der Arbeit
-Von der mündlichen Überlieferung legendenhaft eingehüllter, existenziell wichtiger Informationen zu Zeiten, in denen Lesen und Schreiben seltene Talente waren, über bardische Erzählungen bis hin zur Wiedergabe narrativer Inhalte mittels ausgeklügelter Technologien in unserer heutigen Zeit: Ersinnung und Darbietung von Geschichten sind Künste, welche einen festen Bestandteil jeder Kultur darstellen.
+Von der mÃ¼ndlichen Ãœberlieferung legendenhaft eingehÃ¼llter, existenziell wichtiger Informationen zu Zeiten, in denen Lesen und Schreiben seltene Talente waren, Ã¼ber bardische ErzÃ¤hlungen bis hin zur Wiedergabe narrativer Inhalte mittels ausgeklÃ¼gelter Technologien in unserer heutigen Zeit: Ersinnung und Darbietung von Geschichten sind KÃ¼nste, welche einen festen Bestandteil jeder Kultur darstellen.
   
-Verdrängen neue Darbietungsweisen alte Künste oder nehmen sie gar negativen Einfluss auf die Gesellschaft? Woran denkt man, wenn man das Wort ‚Geschichte’ ließt? An ein Märchenbuch, die angenehme Erzählerstimme eines Hörbuches oder an ein Stilmittel? Welche Erwartungen bestehen bezüglich Aufbau und Struktur, wenn von einer ‚guten’ Geschichte gesprochen wird und woher kommt dieses Verlangen nach Struktur? Welche Bedeutung hat die Art der Darstellung von Informationen – sei es in der Werbung, einem Brief oder dem Resümee des Tages am Abendtisch – bezüglich ihrer Persistenz in unseren Köpfen? 
+VerdrÃ¤ngen neue Darbietungsweisen alte KÃ¼nste oder nehmen sie gar negativen Einfluss auf die Gesellschaft? Woran denkt man, wenn man das Wort "Geschichte" lieÃŸt? An ein MÃ¤rchenbuch, die angenehme ErzÃ¤hlerstimme eines HÃ¶rbuches oder an ein Stilmittel? Welche Erwartungen bestehen bezÃ¼glich Aufbau und Struktur, wenn von einer "guten" Geschichte gesprochen wird und woher kommt dieses Verlangen nach Struktur? Welche Bedeutung hat die Art der Darstellung von Informationen - sei es in der Werbung, einem Brief oder dem ResÃ¼mee des Tages am Abendtisch - bezÃ¼glich ihrer Persistenz in unseren KÃ¶pfen? 
   
-Zunächst möchte ich auf solch grundlegende Fragen und Eigenschaften eingehen, da diese wesentlich dazu beitragen, ein Verständnis für Charakter, Endstehung und Evolution von Geschichten und ihrer Darstellung zu entwickeln. Auf diesen Grundstock aufbauend, wird das Thema ‚interactive storytelling’ betrachtet. Welche Herausforderungen sind bei der Planung interaktiver Geschichten zu erwarten? In welchem Maße sollen oder können Interaktionen den Fortgang einer Geschichte beeinflussen? Neben der Beantwortung dieser Fragen möchte ich Strategien für die Entwicklung interaktionsbasierter Erzählungen vorstellen. Nachfolgend werden die dort gewonnenen Erkenntnisse auf das Bewegtbild übertragen. Einige Denkansätze meiner beiden primären Informations- und Inspirationsquellen Chris Crawford und Janet M. Murray werde ich aufgreifen sowie diese teils mit eigenen Ideen ergänzen oder weiterentwickeln. Weiterhin werden einige bestehende Beispiele, in denen die Interaktion mit Videos möglich ist, untersucht und bewertet.
+ZunÃ¤chst mÃ¶chte ich auf solch grundlegende Fragen und Eigenschaften eingehen, da diese wesentlich dazu beitragen, ein VerstÃ¤ndnis fÃ¼r Charakter, Endstehung und Evolution von Geschichten und ihrer Darstellung zu entwickeln. Auf diesen Grundstock aufbauend, wird das Thema "interactive storytelling" betrachtet. Welche Herausforderungen sind bei der Planung interaktiver Geschichten zu erwarten? In welchem MaÃŸe sollen oder kÃ¶nnen Interaktionen den Fortgang einer Geschichte beeinflussen? Neben der Beantwortung dieser Fragen mÃ¶chte ich Strategien fÃ¼r die Entwicklung interaktionsbasierter ErzÃ¤hlungen vorstellen. Nachfolgend werden die dort gewonnenen Erkenntnisse auf das Bewegtbild Ã¼bertragen. Einige DenkansÃ¤tze meiner beiden primÃ¤ren Informations- und Inspirationsquellen Chris Crawford und Janet M. Murray werde ich aufgreifen sowie diese teils mit eigenen Ideen ergÃ¤nzen oder weiterentwickeln. Weiterhin werden einige bestehende Beispiele, in denen die Interaktion mit Videos mÃ¶glich ist, untersucht und bewertet.
   
-Abschließend werden Ideen sowie konkrete Funktionalitäten für eine Bibliothek erarbeitet, deren Einsatz eine funktional signifikante Interaktion mit Videos ermöglichen soll. Die Beachtung des erzählerischen Inhaltes soll bei der Planung eine entscheidende Rolle spielen. Die primäre Fragestellung lautet: „Wie kann man dem Betrachter eine Geschichte anders als bisher bekannt präsentieren?“ Wobei die Herausforderung bei dieser Aufgabe darin liegt, - ein oder mehrere, inhaltlich unveränderbare - Videos in eine dreidimensionale Umgebung sinnvoll einzubinden. Ein Teil der vorgeschlagenen Funktionalitäten wird unter der Verwendung von WebGL und HTML5 implementiert und veranschaulicht somit, wie diese beiden Technologien für eine Interaktion mit Videos genutzt werden können.
+AbschlieÃŸend werden Ideen sowie konkrete FunktionalitÃ¤ten fÃ¼r eine Bibliothek erarbeitet, deren Einsatz eine funktional signifikante Interaktion mit Videos ermÃ¶glichen soll. Die Beachtung des erzÃ¤hlerischen Inhaltes soll bei der Planung eine entscheidende Rolle spielen. Die primÃ¤re Fragestellung lautet: "Wie kann man dem Betrachter eine Geschichte anders als bisher bekannt prÃ¤sentieren?" Wobei die Herausforderung bei dieser Aufgabe darin liegt, - ein oder mehrere, inhaltlich unverÃ¤nderbare - Videos in eine dreidimensionale Umgebung sinnvoll einzubinden. Ein Teil der vorgeschlagenen FunktionalitÃ¤ten wird unter der Verwendung von WebGL und HTML5 implementiert und veranschaulicht somit, wie diese beiden Technologien fÃ¼r eine Interaktion mit Videos genutzt werden kÃ¶nnen.
   
-Die behandelten Themen werden aufgrund ihrer Weitläufigkeit nicht vollständig, sicherlich aber dem Maß einer Bachelorarbeit entsprechend, behandelt. Ebenso beinhaltet die Planung der Bibliothek hauptsächlich den Entwurf und das Zusammenfassen von Ideen, Funktionalitäten und Einsatzszenarien. Eine tiefer gehende Planung bis hin zu einzelnen Klassen findet lediglich bei dem Teil statt, welcher auch prototypisch implementiert wird. 
+Die behandelten Themen werden aufgrund ihrer WeitlÃ¤ufigkeit nicht vollstÃ¤ndig, sicherlich aber dem MaÃŸ einer Bachelorarbeit entsprechend, behandelt. Ebenso beinhaltet die Planung der Bibliothek hauptsÃ¤chlich den Entwurf und das Zusammenfassen von Ideen, FunktionalitÃ¤ten und Einsatzszenarien. Eine tiefer gehende Planung bis hin zu einzelnen Klassen findet lediglich bei dem Teil statt, welcher auch prototypisch implementiert wird. 
   
   
-###Primäre Literatur
+###PrimÃ¤re Literatur
 * CRAWFORD, Chris (2005): Chris Crawford on Interactive Storytelling. Berkley: New Riders.
 * MURRAY, Janet Horowitz (1997): Hamlet on the Holodeck: Future of Narrative in Cyberspace. New York: Free Press.
